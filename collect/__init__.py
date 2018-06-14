@@ -1,0 +1,1 @@
+from .crawler import crawling_tourspot_visitor
